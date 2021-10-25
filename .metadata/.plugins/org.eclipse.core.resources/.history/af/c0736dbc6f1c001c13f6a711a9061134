@@ -1,0 +1,77 @@
+package com.example.BookMyShow;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+import com.example.BookMyShow.DataType.Address;
+import com.example.BookMyShow.Movies.Movie;
+import com.example.BookMyShow.Movies.MovieAdmin;
+import com.example.BookMyShow.Search.Catalog;
+import com.example.BookMyShow.Search.Search;
+import com.example.BookMyShow.Users.Admin;
+import com.example.BookMyShow.Users.Person;
+import com.example.BookMyShow.api.MovieController;
+import com.example.BookMyShow.api.UserController;
+import com.example.BookMyShow.util.UserLevelAdminActivities;
+
+public class Main {
+
+	public static void main(String args[]) throws IOException {
+		
+	   
+	   UserController userController=new UserController();
+	   userController.createUser("vineet", new Address(1,"one","Gaya","Bihar","India"),"vinee148@mail.com","923345");
+	   userController.createAdminUsers("vineet", new Address(1,"one","Gaya","Bihar","India"),"vinee148@mail.com","923345");
+	   
+	   MovieController movieController=new MovieController();
+	   
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		/*
+		 * Movie movie1 = movieAdmin.createMovie("Teminator", "Machinworld", 120,
+		 * "English", null, "USA", "action", admin); Movie movie2 =
+		 * movieAdmin.createMovie("Teminator 2", "Machinworld", 120, "English", null,
+		 * "USA", "action", admin); Movie movie3 =
+		 * movieAdmin.createMovie("Fast and fuorius 1", "racing", 110, "English", null,
+		 * "USA", "action", admin); Movie movie4 =
+		 * movieAdmin.createMovie("Fast and fuorius 2", "racing", 110, "English", null,
+		 * "USA", "action", admin);
+		 * 
+		 * admin.addMovie(movie1); admin.addMovie(movie2); admin.addMovie(movie3);
+		 * admin.addMovie(movie4); Search search = new Catalog(); for (Movie m :
+		 * search.searchByTitle("Teminator")) { System.out.println(m.getDescription());
+		 * }
+		 */
+		/*while (true) {
+			System.out.println("Press 1 to login as admin ");
+			System.out.println("Press 2 to login as user ");
+
+			int input = Integer.parseInt(reader.readLine());
+			if (input == 1) {
+				System.out.println("enter username");
+				String username = reader.readLine();
+				System.out.println("enter password");
+				String password = reader.readLine();
+			}
+
+			System.out.println("search the movie on the basis of title, genre" + ",language,city");
+
+			System.out.println("Press 1 to Search according to title");
+			System.out.println("Press 2 to Search according to genre");
+			System.out.println("Press 2 to Search according to language");
+			System.out.println("Press 2 to Search according to city");
+
+*/		
+		}
+
+	}
+

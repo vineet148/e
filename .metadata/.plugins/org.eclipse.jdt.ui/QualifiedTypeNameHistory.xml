@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.example.algopractice.Trees.LevelOrderTraversal"/>
+    <fullyQualifiedTypeName name="com.example.algopractice.Trees.Tree"/>
+    <fullyQualifiedTypeName name="com.example.algopractice.Trees.TreeNode"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.util.UserLevelAdminActivities"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.DataType.Address"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Movies.MovieAdmin"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Users.Admin"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Search.DataStorage"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Search.Search"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.api.MovieController"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Search.Catalog"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Enums.SeatType"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Movies.CinemaHallSeat"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Movies.Cinema"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Movies.City"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Movies.CinemaHall"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Services.BookingService"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.api.BookingController"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Movies.Movie"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Movies.Show"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Enums.BookingStatus"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Users.Person"/>
+    <fullyQualifiedTypeName name="com.example.BookMyShow.Booking.Booking"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="org.javatuples.Pair"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+</qualifiedTypeNameHistroy>

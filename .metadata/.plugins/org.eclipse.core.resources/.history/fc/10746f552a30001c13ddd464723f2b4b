@@ -1,0 +1,14 @@
+package com.example.algopractice.Recursion;
+
+public class selectUniqueChar {
+
+	public static void main(String args[])
+	{
+		
+		String str="abcde";
+		int num=2;
+		
+		uniqueCombination(str,num,"");
+	}
+}
+
